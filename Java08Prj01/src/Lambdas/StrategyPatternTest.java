@@ -3,7 +3,7 @@ package Lambdas;
 /**
  * Created by sugan_000 on 2/28/2016.
  */
-public class MathOperationTest {
+public class StrategyPatternTest {
 
     interface MathOperation {
         int operation(int a, int b);
