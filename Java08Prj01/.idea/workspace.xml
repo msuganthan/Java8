@@ -65,14 +65,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FunctionTest01.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FunctionTest01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Function/FunctionTest01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionTest02.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Function/FunctionTest02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.85833335">
+              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,6 +154,7 @@
         <option value="$PROJECT_DIR$/src/Predicate/PredicateTest02.java" />
         <option value="$PROJECT_DIR$/src/Readme.txt" />
         <option value="$PROJECT_DIR$/src/FunctionalInterface/FunctionTest01.java" />
+        <option value="$PROJECT_DIR$/src/Function/FunctionTest02.java" />
       </list>
     </option>
   </component>
@@ -264,6 +275,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Function" />
       <recent name="Predicate" />
       <recent name="FunctionalInterface" />
     </key>
@@ -271,27 +283,7 @@
       <recent name="C:\Users\sugan_000\IdeaProjects\Java08Prj01\src\Function" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FunctionTest01">
-    <configuration default="false" name="StrategyPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Lambdas.StrategyPatternTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java08Prj01" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.FunctionTest02">
     <configuration default="false" name="InternalIterationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -360,6 +352,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="FunctionalInterface.FunctionTest01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java08Prj01" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FunctionTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Function.FunctionTest02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -795,19 +807,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.StrategyPatternTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InternalIterationTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PredicateTest01" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PredicateTest02" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FunctionTest01" />
+      <item index="0" class="java.lang.String" itemvalue="Application.InternalIterationTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PredicateTest01" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PredicateTest02" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FunctionTest01" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FunctionTest02" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FunctionTest01" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PredicateTest02" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PredicateTest01" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InternalIterationTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StrategyPatternTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FunctionTest02" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FunctionTest01" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PredicateTest02" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PredicateTest01" />
+        <item index="4" class="java.lang.String" itemvalue="Application.InternalIterationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -826,12 +838,12 @@
       <workItem from="1456667668416" duration="9417000" />
       <workItem from="1456685745438" duration="1331000" />
       <workItem from="1456693426390" duration="1650000" />
-      <workItem from="1456766895151" duration="1627000" />
+      <workItem from="1456766895151" duration="3464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16634000" />
+    <option name="totallyTimeSpent" value="18471000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -853,12 +865,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.50601506" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.49398497" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34887218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1075,10 +1087,29 @@
     <entry file="file://$PROJECT_DIR$/src/Function/FunctionTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Float.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33272728">
+          <caret line="505" column="11" selection-start-line="505" selection-start-column="11" selection-end-line="505" selection-end-column="11" />
+          <folding>
+            <element signature="e#19691#19692#0" expanded="true" />
+            <element signature="e#19725#19726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Function/FunctionTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85833335">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
