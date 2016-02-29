@@ -31,7 +31,7 @@ public class PredicateTest02 {
         System.out.println("negate odd integerList ->-> "+testPredicateNegate((x) -> x % 2 != 0, integerList ));
         System.out.println("===========================================================");
         System.out.println("or and integerList ->-> "+testPredicateOrAnd((x) -> x % 2 == 0, (x) -> x % 2 != 0 , integerList ));
-        
+
     }
 
     public static <T> List<T> testPredicate(Predicate<T> predicate, List<T> list) {
